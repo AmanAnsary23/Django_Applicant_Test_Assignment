@@ -92,16 +92,16 @@ Add a `.env.example` file for reference.
 
 ---
 
-pip install asgiref
-pip install Django
-pip install django-cors-headers
-pip install django-filter
-pip install djangorestframework
-pip install djangorestframework_simplejwt
-pip install pillow
-pip install PyJWT
-pip install sqlparse
-pip install tzdata
+pip install asgiref <br>
+pip install Django <br>
+pip install django-cors-headers <br>
+pip install django-filter <br>
+pip install djangorestframework <br>
+pip install djangorestframework_simplejwt <br>
+pip install pillow <br>
+pip install PyJWT <br>
+pip install sqlparse <br>
+pip install tzdata <br>
 
 ---
 
