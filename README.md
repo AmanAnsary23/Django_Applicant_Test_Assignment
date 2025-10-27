@@ -134,4 +134,7 @@ pip install tzdata <br>
 
 <img width="563" height="378" alt="Screenshot 2025-10-28 012301" src="https://github.com/user-attachments/assets/97292841-19aa-416c-9caf-a6a9927802ab" />
 
+Note : 
+    There is some issue in jws , so baipass this , sorry
+
 
