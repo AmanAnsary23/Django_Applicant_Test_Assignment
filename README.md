@@ -90,6 +90,8 @@ Add a `.env.example` file for reference.
 
 ## 🧰 Dependencies
 
+---
+
 pip install asgiref
 pip install Django
 pip install django-cors-headers
@@ -100,6 +102,8 @@ pip install pillow
 pip install PyJWT
 pip install sqlparse
 pip install tzdata
+
+---
 
 ## 🧑‍💻 Bonus Features
 
